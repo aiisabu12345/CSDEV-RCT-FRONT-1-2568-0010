@@ -15,7 +15,7 @@ type Metadata={
   keywords: string;
 }
 
-export const metadat:Metadata ={
+export const metadata:Metadata ={
   title:'PineApple',
   description:'pineapple',
   keywords:'pineapple'
